@@ -1,2 +1,4 @@
 text2.txt
 *.js
+/dummyfolder
+dummyfolder/
